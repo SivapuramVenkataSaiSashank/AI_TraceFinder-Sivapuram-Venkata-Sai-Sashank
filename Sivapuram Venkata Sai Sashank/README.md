@@ -24,6 +24,14 @@ Random Forest, XGBoost)** for accurate scanner classification.
 
 ------------------------------------------------------------------------
 
+## Data set links
+
+-   Flatfield images : https://drive.google.com/drive/folders/11t9KQyRbchzaPQ5ZaGsEfxVkfeP9Umro?usp=sharing \
+-   Official documents scans : https://drive.google.com/drive/folders/15ZMfNcfLZpYgCQBLSNopFd6x69CKiZSv?usp=sharing \
+-   Wikipedia documents scans : https://drive.google.com/drive/folders/1rZaGDLczp9SUvEX1AOW6ljxf4vvQFS12?usp=sharing.
+
+------------------------------------------------------------------------
+
 ## 📂 Project Workflow
 
 1.  **Build Flatfield Fingerprints**\
